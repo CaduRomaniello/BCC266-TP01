@@ -13,7 +13,6 @@ Esse é o primeiro trabalho prático da matéria BCC266 (Organização de comput
 
 >LINUX:
 ```bash
-$ cd src/
 > gcc *.c -o main -Wall
 > ./mai
 ```
